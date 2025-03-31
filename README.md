@@ -84,7 +84,7 @@ Trigger scripts are in `trigger_creation.sql`
 
 ---
 
-  ![PostgreSQL trigger function to update the updated_at timestamp](screenshots/Triggers/trigger1.png)
+  ![PostgreSQL trigger function to update the updated_at timestamp](screenshots/Triggers/trigger2.png)
 
 </details>
 
